@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/YYP-Allen/Yone-UI/issues"
   },
-  "homepage": "https://github.com/YYP-Allen/Yone-UI#readme"
+  "homepage": "https://github.com/YYP-Allen/Yone-UI#readme",
+  "dependencies": {
+    "vue": "^2.6.11"
+  }
 }
